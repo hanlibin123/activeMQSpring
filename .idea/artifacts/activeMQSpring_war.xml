@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="activeMQSpring:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="activeMQSpring.war">
+      <element id="artifact" artifact-name="activeMQSpring:war exploded" />
+    </root>
+  </artifact>
+</component>
